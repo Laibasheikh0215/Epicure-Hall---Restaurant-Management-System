@@ -370,6 +370,7 @@ const S = {
   heroStats: {
     position: "absolute",
     bottom: "120px",
+    marginBottom: "-30px",
     left: "60px",
     display: "flex",
     gap: "48px",
